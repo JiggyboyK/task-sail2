@@ -1,0 +1,33 @@
+
+
+h1{
+    color: rgb(171, 171, 205);
+}
+
+h2{
+    color:rgb(254, 255, 92);
+}
+
+h3{
+    color: #504b5b;
+}
+
+h4{
+    color: #3cbcbe;
+}
+
+h5{
+    color: hsl(260, 63%, 50%) ;
+}
+
+h6{
+    color: hsla(260, 63%, 50%, 0.5);
+}
+
+body{
+    background-image: url('./jr.png');
+    background-size: 300px;
+    background-position: center;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+}
